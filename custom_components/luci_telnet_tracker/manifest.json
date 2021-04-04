@@ -1,0 +1,10 @@
+{
+  "domain": "luci_telnet_tracker",
+  "name": "OpenWRT/luci Telnet-based tracker",
+  "version": "1.0.0",
+  "documentation": "https://github.com/CatboxParadox/home-assistant-luci_telnet_tracker",
+  "issue_tracker": "https://github.com/CatboxParadox/home-assistant-luci_telnet_tracker/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@CatboxParadox"]
+}

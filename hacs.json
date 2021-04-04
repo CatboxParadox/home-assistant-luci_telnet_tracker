@@ -1,0 +1,6 @@
+{
+  "name": "OpenWRT/luci Telnet-based Device Tracker",
+  "country": "CZ",
+  "render_readme": false,
+  "domains": ["device_tracker"]
+}
